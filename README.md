@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+_An engineer specialising in Linux systems, with a decade of experience designing and operating applications for businesses large and small, applying them within modern working practices such as Agile, DevOps, Reliability to create robust, scalable systems that are a pleasure to use and maintain.
+_
+
 <!--
 **abaghel/abaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
